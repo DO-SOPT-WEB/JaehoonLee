@@ -12,6 +12,8 @@
     "stylelint-config-recommended": "^13.0.0"
   },
   "dependencies": {
-    "styled-components": "^6.1.0"
+    "axios": "^1.6.2",
+    "styled-components": "^6.1.1",
+    "styled-reset": "^4.5.1"
   }
 }
